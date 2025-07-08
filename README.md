@@ -39,4 +39,4 @@ Here are some of my polished projects. Each one includes a detailed `README` and
 ## 📫 Get in Touch!
 
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sandeshcs5/)
-* **Email:** [email](sandeshcs846@gmail.com)
+* **Email:** sandeshcs846@gmail.com
